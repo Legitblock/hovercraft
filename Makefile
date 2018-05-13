@@ -11,3 +11,7 @@ clean:
 	rm -Rf build
 
 ci: clean build
+
+presentation:
+	hovercraft \
+		hovercraft.rst
