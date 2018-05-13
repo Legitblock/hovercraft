@@ -26,8 +26,8 @@ official documentation at https://hovercraft.readthedocs.io/
 The problem:
 ============
 
-Making presentations is no *fun!*
----------------------------------
+Voting needs to be verifiable and immutable
+-------------------------------------------
 
 .. note::
 
@@ -35,8 +35,8 @@ Making presentations is no *fun!*
 
 ----
 
-GUI tools are inflexible
-========================
+Voting is important to our governance
+=====================================
 
 * It's hard to reorganize or import text
 
