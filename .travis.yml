@@ -11,16 +11,9 @@ matrix:
       - ".git"
     env:
     - builder=travis
-language: node_js
-node_js:
-- 8
-addons:
-  apt:
-    packages:
-    - curl
-    - socat
-    - python3-pip
-    - time
+language: python
+python:
+    - "3.4"
 before_install:
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo pip3 install hovercraft; fi
 script:
