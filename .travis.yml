@@ -19,12 +19,11 @@ addons:
     packages:
     - curl
     - socat
+    - python3-pip
     - time
 before_install:
-- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then npm install -g gatsby-cli gh-pages;
-  fi
+- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo pip3 install hovercraft; fi
 script:
-- npm i
 - /bin/bash -l -c "/usr/bin/time -v make -e ci"
 deploy:
   provider: pages
