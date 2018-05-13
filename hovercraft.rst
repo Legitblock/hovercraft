@@ -38,7 +38,7 @@ Voting needs to be verifiable and immutable
 Voting is important to our governance
 =====================================
 
-* It's hard to reorganize or import text
+* It's hard to verify voting
 
 * Slow and memory hungry
 
