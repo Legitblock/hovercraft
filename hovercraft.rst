@@ -159,8 +159,8 @@ Sign with GPG keys?!?
 ----
 
 
-GPG are cryptography keys
-=========================
+GPG creates cryptography keys
+=============================
 
 * Encryption
 * Signing
@@ -282,7 +282,7 @@ Voting console!
 
 .. image:: hovercraft.jpg
 
-The merge of git and blockchain!
+The convergence of git and blockchain!
 
 .. note::
 
