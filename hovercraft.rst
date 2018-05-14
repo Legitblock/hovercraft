@@ -1,19 +1,15 @@
-:title: Hovercraft! demo
+:title: LeGitBlock!
 :data-transition-duration: 1500
 :css: hovercraft.css
 
-This is a demo for Hovercraft! You can view it as a finished presentation
-at http://regebro.github.com/hovercraft/
-
-
-It's also useful as an example, in which case it's supposed to be read as
-`source code <../_sources/examples/hovercraft.txt>`_.
+This is a demo for LegitBlock! You can view it as a finished presentation
+at http://legitblock.com/hovercraft
 
 You can render this presentation to HTML with the command::
 
-    hovercraft hovercraft.rst outdir
+    make ci
 
-And then view the outdir/index.html file to see how it turned out.
+And then view the build/index.html file to see how it turned out.
 
 If you are seeing this text, and not reading this as source code, you are
 doing it wrong! It's going to be confusing and not very useful.
@@ -31,59 +27,58 @@ Voting needs to be verifiable and immutable
 
 .. note::
 
-    Welcome to the presenter console!
+    1. Blockchain provides verification and immutability
 
 ----
 
-Voting is important to our governance
-=====================================
+Voting is important to modern life
+==================================
 
-* It's hard to verify voting
+* It is the primary decision mechanism of our government
 
-* Slow and memory hungry
+* It is also the primary decision mechanism of corporations
 
-* You get caught up in design early in the process.
+* Co-ops, non-profit organizations, PTA, etc
 
 .. note::
 
-    Here you have a view of the current slide, a preview of the next slide
-    and your notes.
+    2400 years ago Plato writes The Republic
+
 
 ----
 
-Use reStructuredText!
-=====================
+Git as document history
+=======================
 
-* You can use your favorite text-editor!
+* Git is used to track changes in a set of documents
 
-* Many tools available: Landslide, S5
+* Many tools available: github, Pull Requests
 
 * Convenient (and powerful!)
 
 .. note::
 
-    You also have a clock and a timer, so you know how much time you have
-    left.
+   Git is a very powerful tool
 
 ----
 
-But then there was Prezi
-========================
+But then there was Blockchain
+=============================
 
-Sliding from left to right is no longer enough.
-You need to be able to...
+* brings an immmutable history
+
+* brings a way for the organization to raise funds with an ICO
+
 
 .. note::
 
-    If you click on the timer it restarts from zero. This is handy when you
-    are rehearsing the presentation and need to make sure it fits in the time
-    allocated.
+   ICO ICO
 
 ----
 
 :data-y: r1000
 
-...pan...
+...git...
 =========
 
 .. note::
@@ -95,8 +90,8 @@ You need to be able to...
 
 :data-rotate: 90
 
-...rotate...
-============
+...blockchain...
+================
 
 .. note::
 
@@ -123,12 +118,13 @@ You need to be able to...
 :data-x: r-800
 :data-scale: 1
 
-But Prezi is a GUI
-==================
+Start an Organization
+=====================
 
 So we are back to square one.
 
-(And it is closed source to boot)
+Let's start an organization
+
 
 .. note::
 
@@ -136,13 +132,14 @@ So we are back to square one.
 
 ----
 
-What about impress.js?
-======================
+Gather those involved
+=====================
 
-It's open source!
+Write your bylaws.
 
-Supports pan, tilt and zoom!
+Import them into a repo!
 
+Sign with gpg keys!
 
 ----
 
@@ -150,10 +147,10 @@ Supports pan, tilt and zoom!
 :data-y: r1200
 :data-rotate-x: 180
 
-In three dimensions!
-====================
+Sign with GPG keys?!?
+=====================
 
-*But...*
+*But.what.are.those?..*
 
 .. note::
 
@@ -162,21 +159,30 @@ In three dimensions!
 ----
 
 
-It's HTML...
-============
+GPG are cryptography keys
+=========================
 
-Not a friendly format to edit
+* Encryption
+* Signing
+* Authorization
+
+.. note::
+
+    GPG keys are used for encryption, signing and authorization.
 
 ----
 
 :data-x: r800
 
-...and manual positioning
-=========================
+...and by combining GPG + Git + blockchain
+==========================================
 
-So inserting a slide means
+* bulletproof
 
-repositioning all the following slides!
+* verifiable
+
+* immutable
+
 
 
 .. note::
@@ -207,7 +213,7 @@ Of course there is!
 :data-x: r-2500
 :data-y: r0
 
-Introducing **Hovercraft!**
+Introducing **LegitBlock!**
 ===========================
 
 .. note::
@@ -219,53 +225,49 @@ Introducing **Hovercraft!**
 :data-x: r-3000
 :data-scale: 1
 
-reStructuredText
+Git
 ----------------
 
 plus
 ....
 
-impress.js
+GPG
 ----------
 
 plus
 ....
 
-impressConsole.js
+Blockchain
 -----------------
 
 plus
 ....
 
-positioning!
+Voting!
 ------------
 
 ----
 
 :data-y: r-1200
 
-Position slides
-===============
+Voting
+======
 
-* Automatically!
-* Absolutely!
-* Relative to the previous slide!
-* Along an SVG path!
+* Securely!
+* Verifiably!
+* Immutably!
 
 
 .. note::
 
-    That SVG path support was a lot of work. And all I used it for was to
-    position the slides in circles.
+    Privacy is a concern.
 
 ----
 
-Presenter console!
+Voting console!
 ==================
 
-* A view of the current slide
-* A view of the next slide
-* Your notes
+* A view of the current vote tallies
 * A clock
 * A timer
 
@@ -275,16 +277,16 @@ Presenter console!
 
 ----
 
-**Hovercraft!**
+**LegitBlock!**
 ===============
 
 .. image:: hovercraft.jpg
 
-The merge of convenience and cool!
+The merge of git and blockchain!
 
 .. note::
 
-    A slogan: The ad-mans best friend!
+    slogan: Legitimizing your organization
 
 ----
 
@@ -293,12 +295,12 @@ The merge of convenience and cool!
 :data-z: 4000
 :data-rotate-x: 90
 
-**Hovercraft!**
+**LegitBlock!**
 ===============
 
 On Github:
 
-https://github.com/regebro/hovercraft
+https://github.com/legitblock/legitblock
 
 .. note::
 
