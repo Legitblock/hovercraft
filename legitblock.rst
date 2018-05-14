@@ -19,6 +19,17 @@ official documentation at https://hovercraft.readthedocs.io/
 
 ----
 
+.. image:: legitLogo.jpg
+
+The convergence of git and blockchain!
+
+.. note::
+
+    slogan: Legitimizing your organization
+
+
+----
+
 The problem:
 ============
 
@@ -276,9 +287,6 @@ Voting console!
     You found the presenter console already!
 
 ----
-
-**LegitBlock!**
-===============
 
 .. image:: legitLogo.jpg
 
