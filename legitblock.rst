@@ -280,7 +280,7 @@ Voting console!
 **LegitBlock!**
 ===============
 
-.. image:: legitlogo.jpg
+.. image:: legitLogo.jpg
 
 The convergence of git and blockchain!
 
