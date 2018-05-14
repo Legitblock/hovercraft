@@ -1,6 +1,6 @@
 :title: LeGitBlock!
 :data-transition-duration: 1500
-:css: hovercraft.css
+:css: legit.css
 
 This is a demo for LegitBlock! You can view it as a finished presentation
 at http://legitblock.com/hovercraft
@@ -280,7 +280,7 @@ Voting console!
 **LegitBlock!**
 ===============
 
-.. image:: hovercraft.jpg
+.. image:: legitlogo.jpg
 
 The convergence of git and blockchain!
 

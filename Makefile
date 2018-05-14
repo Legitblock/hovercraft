@@ -1,11 +1,8 @@
-d: clean build
+d: clean presentation
 
 build:
 	hovercraft \
-		hovercraft.rst ./build
-
-bad:
-		-css css/presentation.css \
+		legitblock.rst ./build
 
 clean:
 	rm -Rf build
@@ -14,4 +11,4 @@ ci: clean build
 
 presentation:
 	hovercraft \
-		hovercraft.rst
+		legitblock.rst
